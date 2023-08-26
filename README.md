@@ -9,9 +9,14 @@
 
 ## Project overview
 
--- npm install
--- npm run dev
--- php artisan serve
+-- Laravel Framework<br>
+-- Laravel Fortify<br>
+-- Laravel UI/Start Bootstrap<br>
+
+### How to run project
+-- npm install<br>
+-- npm run dev<br>
+-- php artisan serve<br>
 
 
 ## About Laravel
